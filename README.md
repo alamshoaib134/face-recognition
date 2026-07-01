@@ -1,3 +1,5 @@
+Developed with 🧠 by **[Shoaib Alam](https://alamshoaib134.github.io/)** (AI Engineer at JPMC | NLP Researcher @ IIT Gandhinagar | Hybrid RAG Pioneer)
+---
 # Face Recognition Project
 
 ## Overview
